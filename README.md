@@ -1,5 +1,5 @@
 
-# Portfolio
+# Student Management
 
 Made an comprehensive full-stack project designed to efficiently manage and maintain data for various entities such as students, teachers, employees, and more. This application allows users to add, update and delete records, providing a robust system for data storage and management. It is highly versatile and can be utilized across different sectors including schools for managing student and teacher information, offices for employee records, hospitals for patient and staff data, and other organizations where structured data management is crucial. The project features a user-friendly interface that simplifies data entry and retrieval, ensuring that organizations can maintain accurate and up-to-date information with ease.
 
