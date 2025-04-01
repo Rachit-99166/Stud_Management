@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.examly.springapp.model.Student;
-import com.examly.springapp.service.Studentservice;
+import com.examly.springapp.service.Studentservice; 
 
 @RestController
 public class ApiController {
